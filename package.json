@@ -1,0 +1,34 @@
+{
+  "name": "@tim-lai/isomorphic-form-data",
+  "version": "1.0.0",
+  "description": "A module to create readable `\"multipart/form-data\"` isomorphically in node and the browser.",
+  "main": "./lib/index",
+  "browser": "./lib/browser",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-lai/isomorphic-form-data.git"
+  },
+  "keywords": [
+    "formdata",
+    "formdata-node",
+    "form-data"
+  ],
+  "author": "Tim Lai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tim-lai/isomorphic-form-data/issues"
+  },
+  "homepage": "https://github.com/tim-lai/isomorphic-form-data#readme",
+  "dependencies": {
+    "formdata-node": "^2.1.1"
+  }
+}

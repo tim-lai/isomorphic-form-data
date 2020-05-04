@@ -1,0 +1,12 @@
+# env
+.env
+.idea
+.DS_Store
+.DS_Store?
+._*
+ehthumbs.db
+Thumbs.db
+
+# dependencies
+node_modules
+package-lock.json
